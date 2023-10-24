@@ -1,0 +1,30 @@
+{
+  "name": "node-js-basic-concepts",
+  "version": "1.0.0",
+  "description": "Exercícios e conteúdos desenvolvidos durante o curso",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thalya-Steffany-Studies/node-js-basic-concepts.git"
+  },
+  "keywords": [
+    "node",
+    "course",
+    "javascript",
+    "back-end"
+  ],
+  "author": "Thalya Stéffany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thalya-Steffany-Studies/node-js-basic-concepts/issues"
+  },
+  "homepage": "https://github.com/Thalya-Steffany-Studies/node-js-basic-concepts#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  }
+}
